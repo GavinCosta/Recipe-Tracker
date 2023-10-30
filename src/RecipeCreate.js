@@ -85,7 +85,7 @@ function RecipeCreate({ createHandle }) {
 
             <td htmlFor="preparation">
               <textarea
-                key={content.prep}
+                key={content.preparation}
                 name="preparation"
                 id="preparation"
                 placeholder="Preparation"
