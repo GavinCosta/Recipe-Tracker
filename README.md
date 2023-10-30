@@ -1,0 +1,1 @@
+Welcome to recipe tracker. Recipe tracker is an application that allows a user to create a list of recipes with a name, cuisine type, photo, ingredients, and preparation. The application has both the functionality to add and delete recipes on the list.
