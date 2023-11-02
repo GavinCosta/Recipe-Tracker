@@ -69,3 +69,6 @@ table {
 .wideRow td:nth-child(4) {
   width: 30%;
 }
+h3 {
+  text-align: center;
+}
