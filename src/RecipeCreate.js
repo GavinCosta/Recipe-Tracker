@@ -12,6 +12,7 @@ function RecipeCreate({ createHandle }) {
   const [content, setContent] = useState(initialUseState);
   //Create submit handle and change handle
   const changeHandle = (event) => {
+    event.preventDefault()
     const { name, value } = event.target;
     setContent({
       ...content,
@@ -35,7 +36,6 @@ function RecipeCreate({ createHandle }) {
           <tr style={{ backgroundColor: "pink" }} className="wideRow">
             <td htmlFor="name">
               <input
-                key={content.name}
                 name="name"
                 id="name"
                 placeholder="Name"
@@ -46,7 +46,6 @@ function RecipeCreate({ createHandle }) {
             </td>
             <td htmlFor="cuisine">
               <input
-                key={content.cuisine}
                 name="cuisine"
                 id="cuisine"
                 placeholder="Cuisine"
@@ -57,7 +56,6 @@ function RecipeCreate({ createHandle }) {
             </td>
             <td htmlFor="photo">
               <input
-                key={content.photo}
                 name="photo"
                 id="photo"
                 placeholder="URL"
@@ -71,7 +69,6 @@ function RecipeCreate({ createHandle }) {
 
             <td htmlFor="ingredients">
               <textarea
-                key={content.ingredients}
                 name="ingredients"
                 id="ingedients"
                 placeholder="Ingredients"
@@ -85,7 +82,6 @@ function RecipeCreate({ createHandle }) {
 
             <td htmlFor="preparation">
               <textarea
-                key={content.preparation}
                 name="preparation"
                 id="preparation"
                 placeholder="Preparation"
