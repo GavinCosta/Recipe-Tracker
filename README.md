@@ -22,6 +22,7 @@ Describe the preparation steps.
 Delete a Recipe:
 
 Easily remove recipes from your list with just a click.
+
 📸 Screenshots
 Recipe Tracker Interface
 ![RecipeTrackerPreview](https://github.com/GavinCosta/recipe-tracker/assets/143152149/19b5f003-04d0-4a4c-a566-4e5fc1e7315f)
