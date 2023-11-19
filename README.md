@@ -34,7 +34,7 @@ I'm continually enhancing the application to offer even more functionality, ensu
 
 ## 📱 Try It Out!
 
-Ready to streamline your recipe organization? [Check out the Recipe Tracker Application](#) and start creating your culinary masterpieces!
+Ready to streamline your recipe organization? Check out the Recipe Tracker application and start creating your culinary masterpieces!
 
 Feel free to reach out with any feedback or suggestions for improvement. Happy cooking!
 
