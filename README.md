@@ -1,5 +1,5 @@
-
 Recipe Tracker Application
+
 Welcome to my Recipe Tracker Application! I'm Gavin Michael Costa, the developer behind this tool that simplifies your recipe organization.
 
 🍲 Features
